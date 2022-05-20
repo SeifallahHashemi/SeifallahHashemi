@@ -1,16 +1,23 @@
-### Hi 🖐
+### Hi 🖐, my name is Sepehr
 
-I'm Sepehr(seifallah) Hashemi from Iran-Tabriz
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeifallahHashemi&hide=contribs,prs)
+#### I am Web Developer From Iran-Tabriz
+![I am Web Developer From Iran-Tabriz](https://i.ibb.co/c8MqKKY/Banner.png)
 
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seifallahhashemi&label=Profile%20views&color=0e75b6&style=flat" alt="seifallahhashemi" /> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seifallahhashemi&show_icons=true&theme=synthwave)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seifallahhashemi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Github_Repo_Size](https://img.shields.io/github/repo-size/SeifallahHashemi/SeifallahHashemi)](https://github.com/SeifallahHashemi)
+![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fsepehrhashemi6)
+![GitHub followers](https://img.shields.io/github/followers/SeifallahHashemi)
+![GitHub forks](https://img.shields.io/github/forks/SeifallahHashemi/SeifallahHashemi)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifallahhashemi" alt="seifallahhashemi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sepehrhashemi6" target="blank"><img src="https://img.shields.io/twitter/follow/@sepehrhashemi6?logo=twitter&style=for-the-badge" alt="@sepehrhashemi6" /></a> </p>
+
 
 - 🔭 I’m currently working on **Weather app**
 
@@ -18,7 +25,7 @@ I'm Sepehr(seifallah) Hashemi from Iran-Tabriz
 
 - 💬 Ask me about **react, scss**
 
-- 📫 How to reach me **sepehrhashemimamaquani1996@gmail.com**
+- 📫 How to reach me: <br/>Email: **sepehrhashemimamaquani1996@gmail.com**
 
 - ⚡ Fun fact **I think I am a Funny**
 
@@ -43,35 +50,6 @@ I'm Sepehr(seifallah) Hashemi from Iran-Tabriz
 
 
 
-### Hi there 👋, my name is Sepehr
-#### I am Development
-![I am Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+I share my project codes in this account.
 
-I'm Sepehr Hashemi from Iran-Tabriz and I'm web developer 
-
-Skills: REACT / JS / HTML / CSS / Redux / SCSS
-
-- 🔭 I’m currently working on Weather app 
-- 🌱 I’m currently learning Everything related to programming😍 
-- 💬 Ask me about React/Redux , CSS/SCSS , js/ts 
-- 📫 How to reach me: sepehrhashemimamaquani1996@gmail.com 
-- ⚡ Fun fact: I think I am a Funny 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SeifallahHashemi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/SeifallahHashemi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sepehr hashemi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sepehrhashemi_web.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sepehrhashemi6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/seifallahhashemi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/sepehr hashemi)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SeifallahHashemi)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeifallahHashemi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeifallahHashemi&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SeifallahHashemi)  
-
-![GitHub metrics](https://metrics.lecoq.io/SeifallahHashemi)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SeifallahHashemi)  
-
-![Profile views](https://gpvc.arturio.dev/SeifallahHashemi)  
+Skills: REACT / Redux / JS / HTML / CSS / SCSS / Bootstrap / Tailwind
