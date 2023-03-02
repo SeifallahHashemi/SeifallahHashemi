@@ -29,7 +29,7 @@
 
 - ⚡ Fun fact **I think I am a Funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://codepen.io/seifallahhashemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@seifallahhashemi" height="30" width="40" /></a>
 <a href="https://twitter.com/@sepehrhashemi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sepehrhashemi6" height="30" width="40" /></a>
